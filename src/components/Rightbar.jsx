@@ -3,7 +3,16 @@ import React from 'react'
 
 const Rightbar = () => {
   return (
-    <Box bgcolor='lightcoral' flex={2} padding={2} sx={{display: {xs: 'none', sm: 'block'}}}>Rightbar</Box>
+    <Box 
+    flex={2} 
+    padding={2} 
+    sx={{display: {xs: 'none', sm: 'block'}}}
+    >
+      <Box position='fixed'>
+      hello
+
+      </Box>
+    </Box>
   )
 }
 

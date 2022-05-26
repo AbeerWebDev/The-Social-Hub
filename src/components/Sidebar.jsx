@@ -17,6 +17,7 @@ const Sidebar = () => {
     padding={2} 
     sx={{display: {xs: 'none', sm: 'block' }}}
     >
+    <Box position='fixed'>
     <List>
           <ListItem disablePadding>
             <ListItemButton Component='a' href='#Home'>
@@ -90,6 +91,7 @@ const Sidebar = () => {
               <Switch />
             </ListItemButton>
           </ListItem>
+          </Box>
     </Box>
   )
 }
