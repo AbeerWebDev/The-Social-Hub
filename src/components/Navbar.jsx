@@ -71,16 +71,16 @@ const Navbar = () => {
           <Avatar
             onClick={(e)=> setOpen(true)}
             sx={{ width: 30, height: 30 }}
-            src="https://images.pexels.com/photos/11293709/pexels-photo-11293709.jpeg?cs=srgb&dl=pexels-vietnam-photographer-11293709.jpg&fm=jpg"
+            src="https://images.pexels.com/photos/371985/pexels-photo-371985.jpeg?cs=srgb&dl=pexels-pixabay-371985.jpg&fm=jpg"
           />
         </Icons>
 
         <UserBox onClick={(e)=> setOpen(true)}>
         <Avatar
             sx={{ width: 30, height: 30 }}
-            src="https://images.pexels.com/photos/11293709/pexels-photo-11293709.jpeg?cs=srgb&dl=pexels-vietnam-photographer-11293709.jpg&fm=jpg"
+            src="https://images.pexels.com/photos/371985/pexels-photo-371985.jpeg?cs=srgb&dl=pexels-pixabay-371985.jpg&fm=jpg"
           />
-          <Typography>Christophe</Typography>
+          <Typography>Marzia</Typography>
         </UserBox>
       </StyledToolbar>
 
