@@ -29,7 +29,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#pages'>
               <ListItemIcon>
                <Article />
               </ListItemIcon>
@@ -38,7 +38,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#groups'>
               <ListItemIcon>
                <Group />
               </ListItemIcon>
@@ -47,7 +47,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#marketplace'>
               <ListItemIcon>
                <Storefront />
               </ListItemIcon>
@@ -56,7 +56,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#friends'>
               <ListItemIcon>
                <Person />
               </ListItemIcon>
@@ -65,7 +65,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#settings'>
               <ListItemIcon>
                <Settings />
               </ListItemIcon>
@@ -74,7 +74,7 @@ const Sidebar = ({mode, setMode}) => {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#profile'>
               <ListItemIcon>
                <AccountBox />
               </ListItemIcon>
@@ -84,7 +84,7 @@ const Sidebar = ({mode, setMode}) => {
     </List>
 
     <ListItem disablePadding>
-            <ListItemButton component='a' href='#simple-list'>
+            <ListItemButton component='a' href='#darkmode'>
               <ListItemIcon>
                <ModeNight />
               </ListItemIcon>
