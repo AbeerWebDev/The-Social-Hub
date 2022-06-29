@@ -87,7 +87,7 @@ To Visit App:
 
 **Mobile Design**
 
-* Minimise page to see the mobile design.
+* Minimise page to see a mobile friendly design.
 
 ## Project Status
 Project is: Completed
